@@ -1,0 +1,1 @@
+# SLICE-Semantic-Latent-Injection-via-Compartmentalized-Embedding-for-Image-Watermarking
